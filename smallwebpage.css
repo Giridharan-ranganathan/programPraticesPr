@@ -1,0 +1,33 @@
+.box-part{
+    background-color: white;
+    /* height: 285px; */
+    /* width: 270px; */
+    padding: 30px 0px;
+    margin: 30px 0px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.box{
+    padding: 10px 0px;
+
+}
+
+a{
+    margin-top: 50px;
+}
+
+.text{
+    margin: 20PX 0px;
+    font-size: 14px;
+    
+}
+.fa{
+    color: dodgerblue;
+}
+
+
+
+
